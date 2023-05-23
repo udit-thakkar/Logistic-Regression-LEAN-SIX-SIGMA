@@ -16,8 +16,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/), we will implement Logistic 
-Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators picking productivity.
+We will implement Logistic Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators picking productivity.
 
 ### Scenario
 You are Reginal Director of a Logistic Company (3PL) and you have 22 warehouses in your scope.
